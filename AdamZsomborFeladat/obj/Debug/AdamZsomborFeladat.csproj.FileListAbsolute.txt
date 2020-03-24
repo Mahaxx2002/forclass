@@ -1,0 +1,6 @@
+C:\Users\Mahaxx\source\repos\AdamZsomborFeladat\bin\Debug\AdamZsomborFeladat.exe.config
+C:\Users\Mahaxx\source\repos\AdamZsomborFeladat\bin\Debug\AdamZsomborFeladat.exe
+C:\Users\Mahaxx\source\repos\AdamZsomborFeladat\bin\Debug\AdamZsomborFeladat.pdb
+C:\Users\Mahaxx\source\repos\AdamZsomborFeladat\obj\Debug\AdamZsomborFeladat.csprojAssemblyReference.cache
+C:\Users\Mahaxx\source\repos\AdamZsomborFeladat\obj\Debug\AdamZsomborFeladat.exe
+C:\Users\Mahaxx\source\repos\AdamZsomborFeladat\obj\Debug\AdamZsomborFeladat.pdb
